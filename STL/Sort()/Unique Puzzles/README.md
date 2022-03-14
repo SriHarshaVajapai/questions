@@ -3,7 +3,7 @@
 Given three friends who like to solve exciting puzzles, a solved puzzle is identified uniquely by a positive number less than or equal to 10000. Write a program to find who among the three has solved more number of puzzles that none of the other two have solved
 <hr>
 
-### Input
+### Inputs
 
 Input contains three lines, one line for each friend(1, 2, and 3). Each line contains an integer S, representing the number of puzzles solved by that person(1, 2, or 3), followed by a space and S space separated positive numbers representing puzzles solved.
 <hr>
